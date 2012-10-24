@@ -77,4 +77,4 @@ func (e spanish) Ordinal(num int) string {
 }
 
 // Spanish language locale that can be used as "FormatLocale" parameter
-var Spanish = spanish{}
+var Spanish spanish

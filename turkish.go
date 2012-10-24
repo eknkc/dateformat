@@ -126,4 +126,4 @@ func (e turkish) Ordinal(num int) string {
 }
 
 // Turkish language locale that can be used as "FormatLocale" parameter
-var Turkish = turkish{}
+var Turkish turkish

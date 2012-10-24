@@ -90,4 +90,4 @@ func (e english) Ordinal(num int) string {
 }
 
 // English language locale that can be used as "FormatLocale" parameter
-var English = english{}
+var English english

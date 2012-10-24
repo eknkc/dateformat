@@ -81,4 +81,4 @@ func (e french) Ordinal(num int) string {
 }
 
 // French language locale that can be used as "FormatLocale" parameter
-var French = french{}
+var French french

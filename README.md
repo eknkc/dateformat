@@ -7,32 +7,32 @@ DateFormat provides convenient date formatting with localization support. Built 
 ## Usage
 
 ```go
-var Dutch = dutch{}
+var Dutch dutch
 ```
 Dutch language locale that can be used as "FormatLocale" parameter
 
 ```go
-var English = english{}
+var English english
 ```
 English language locale that can be used as "FormatLocale" parameter
 
 ```go
-var French = french{}
+var French french
 ```
 French language locale that can be used as "FormatLocale" parameter
 
 ```go
-var German = german{}
+var German german
 ```
 German language locale that can be used as "FormatLocale" parameter
 
 ```go
-var Spanish = spanish{}
+var Spanish spanish
 ```
 Spanish language locale that can be used as "FormatLocale" parameter
 
 ```go
-var Turkish = turkish{}
+var Turkish turkish
 ```
 Turkish language locale that can be used as "FormatLocale" parameter
 

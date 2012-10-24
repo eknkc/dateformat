@@ -77,4 +77,4 @@ func (e german) Ordinal(num int) string {
 }
 
 // German language locale that can be used as "FormatLocale" parameter
-var German = german{}
+var German german
