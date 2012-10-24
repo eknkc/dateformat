@@ -125,5 +125,5 @@ func (e turkish) Ordinal(num int) string {
 	return strconv.Itoa(num) + "'" + suffix
 }
 
-// English language locale that can be used as "FormatLocale" parameter
+// Turkish language locale that can be used as "FormatLocale" parameter
 var Turkish = turkish{}

@@ -1,4 +1,4 @@
-// DateFormat provides convinient date formatting with localization support. Built in support for French, German, Spanish, Dutch, Turkish and English
+// DateFormat provides convenient date formatting with localization support. Built in support for French, German, Spanish, Dutch, Turkish and English
 package dateformat
 
 import (
